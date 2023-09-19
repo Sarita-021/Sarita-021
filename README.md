@@ -24,7 +24,7 @@
 
 ## 🏆Github Profile Trophies
 <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=suniti-0020&theme=juicyfresh&column=7&margin-w=15&no-frame=true&no-bg=true" />
+          <img src="https://github-profile-trophy.vercel.app/?username=Sarita-021&theme=juicyfresh&column=7&margin-w=15&no-frame=true&no-bg=true" />
 </p>
 
 ## Languages and Tools
