@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-## 👨🏻‍🏫 What are my current activities?
+## 👨🏻‍🏫 My current activities?
 
 - The art of coding weaves a tapestry of passion and logic.
 - Strong interest in Data Science and AI ML.
