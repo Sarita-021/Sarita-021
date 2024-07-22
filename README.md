@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sarita</h1>
 <h3 align="center">AI & ML Enthusiast and MERN Stack Developer</h3>
 <p align="center"> 
-<a href="https://www.linkedin.com/in/sarita021/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="3%"></a>
-<a href="https://leetcode.com/u/Sarita_021/" target="blank"><img src= "https://cdn.theorg.com/36218b9f-879b-481e-9332-ebc4692d7587_thumb.jpg" alt="LeetCode" width="3%"></a>
+<a href="https://www.linkedin.com/in/sarita021/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="3.7%"></a>
+<a href="https://leetcode.com/u/Sarita_021/" target="blank">
+          <img src= "https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-11492972-9325307.png?f=webp" alt="LeetCode" width="4%" >
+</a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarita-021&label=Profile%20views&color=0e75b6&style=flat" alt="Sarita-021" /> </p>
 
