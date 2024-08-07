@@ -4,32 +4,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarita-021&label=Profile%20views&color=0e75b6&style=flat" alt="Sarita-021" /> </p>
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Sarita-021"  width="40">, I'm Sarita</h1>
 
+<p align="center"> 
+          <a href="https://www.linkedin.com/in/sarita021/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="3.7%"></a>
+          <a href="https://leetcode.com/u/Sarita_021/" target="blank"><img src= "https://github.com/user-attachments/assets/2c2aabbd-bf17-458c-ac8d-f839d6b4ebd1" alt="LeetCode" width="4%"></a>
+          <a href="https://medium.com/@pansaritawar" target="blank"><img src="https://github.com/user-attachments/assets/e0c5fec2-52ec-419c-a826-94b0198f2954" width="4%"></a>
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&&duration=4000&pause=800&&size=75&width=1000&height=150&center=true&vCenter=true&&lines=AIML+Enthusiast+;+MERN+Stack+Developer)](https://git.io/typing-svg)
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/sarita021/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="3.7%"></a>
-<a href="https://leetcode.com/u/Sarita_021/" target="blank"><img src= "https://github.com/user-attachments/assets/2c2aabbd-bf17-458c-ac8d-f839d6b4ebd1" alt="LeetCode" width="4%"></a>
-<a href="https://medium.com/@pansaritawar" target="blank"><img src="https://github.com/user-attachments/assets/e0c5fec2-52ec-419c-a826-94b0198f2954" width="4%"></a>
-</p>
+## Productivity Stats 📈
 
-## 👨🏻‍🏫 My current activities
-
-- The art of coding weaves a tapestry of passion and logic.
-- Strong interest in Data Science and AI ML.
-- Actively engaged in hackathons and Open Source.
-- Building an algorithm that optimizes my happiness.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarita-021&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
 
-<p width="100%" align="center">
-          <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Sarita-021&show_icons=true&locale=en" alt="Sarita-021" />
-          <img align="center"  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarita-021" />
-</p>
+## GitHub Activity 📊
 
-## 🏆Github Profile Trophies
-<p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=Sarita-021&theme=juicyfresh&column=7&margin-w=15&no-frame=true&no-bg=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Sarita-021&show_icons=true&theme=monokai"  display=block width=48.25% height=250  alt="1" >  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarita-021&show_icons=true&theme=monokai"  display=block width=50.75% height=250  alt="2" >                                                                                                        
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarita-021&langs_count=8&show_icons=true&theme=monokai&layout=compact"  display=block width=50% height=230  alt="3" >  </p>
 
 
 
@@ -49,3 +41,7 @@
 
  ### Other Tools
  ## <p> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> <nbsp> <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Android" width="60" height="60"/> <nbsp> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="60" height="60"/></p>
+
+## 🏆Github Profile Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Sarita-021&theme=juicyfresh&column=8&margin-w=15&no-frame=true&no-bg=true" />
+
