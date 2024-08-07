@@ -1,16 +1,18 @@
 
 <img src="https://github.com/user-attachments/assets/c88bcb96-25cb-4b49-b22b-8c899c4e8297" alt="Sarita-021" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Sarita</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&color=F567F7&size=65&center=true&vCenter=true&width=2000&height=90&lines=Problem+Statement+:+;+Trend+Centric+Recommendation+System)](https://git.io/typing-svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarita-021&label=Profile%20views&color=0e75b6&style=flat" alt="Sarita-021" /> </p>
+<h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="Sarita-021"  width="40">, I'm Sarita</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&&duration=4000&pause=800&&size=75&width=1000&height=150&center=true&vCenter=true&&lines=AIML+Enthusiast+;+MERN+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/sarita021/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="3.7%"></a>
-<a href="https://leetcode.com/u/Sarita_021/" target="blank">
-          <img src= "https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-11492972-9325307.png?f=webp" alt="LeetCode" width="4%" >
-</a>
+<a href="https://leetcode.com/u/Sarita_021/" target="blank"><img src= "https://github.com/user-attachments/assets/2c2aabbd-bf17-458c-ac8d-f839d6b4ebd1" alt="LeetCode" width="4%"></a>
+<a href="https://www.linkedin.com/in/sarita021/" target="blank"><img src="https://github.com/user-attachments/assets/e0c5fec2-52ec-419c-a826-94b0198f2954" width="4%"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarita-021&label=Profile%20views&color=0e75b6&style=flat" alt="Sarita-021" /> </p>
 
 - 🌱 I’m currently learning **AI and ML**
 
