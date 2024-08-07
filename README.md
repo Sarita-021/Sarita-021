@@ -1,5 +1,9 @@
+
+<img src="https://github.com/user-attachments/assets/c88bcb96-25cb-4b49-b22b-8c899c4e8297" alt="Sarita-021" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Sarita</h1>
-<h3 align="center">AI & ML Enthusiast and MERN Stack Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&color=F567F7&size=65&center=true&vCenter=true&width=2000&height=90&lines=Problem+Statement+:+;+Trend+Centric+Recommendation+System)](https://git.io/typing-svg)
+
 <p align="center"> 
 <a href="https://www.linkedin.com/in/sarita021/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="3.7%"></a>
 <a href="https://leetcode.com/u/Sarita_021/" target="blank">
