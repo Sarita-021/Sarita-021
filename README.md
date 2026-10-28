@@ -89,8 +89,6 @@ I'm an **AI Engineer at Infosys** with a background in Computer Science and Arti
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarita-021&theme=tokyonight" alt="GitHub activity summary"/>
 </p>
 
-<p align="center">
-</p>
 
 ---
 
